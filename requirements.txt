@@ -1,0 +1,9 @@
+opencv-python==4.8.1.78
+opencv-contrib-python==4.8.1.78
+pyvirtualcam==0.11.0
+numpy==1.24.3
+Pillow==10.0.0
+Flask==3.0.0
+flask-cors==4.0.0
+requests==2.31.0
+pyinstaller==6.1.0
